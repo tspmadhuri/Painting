@@ -1,3 +1,4 @@
 yellow
 pink
 purple
+violet
